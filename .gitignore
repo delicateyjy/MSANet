@@ -49,6 +49,7 @@ data/
 dataset/
 *.png
 *.jpg
+!images/*.jpg
 *.csv
 *.json
 
